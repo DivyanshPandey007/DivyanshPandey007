@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyanshPandey007
 - 👀 I’m interested in Python, Node, Unity, UE4, and JS.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python.
+- 💞️ I’m looking to collaborate on Python with others too.
 - 📫 How to reach me: repl.it!
 
 <!---
